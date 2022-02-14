@@ -119,9 +119,9 @@
     "chatTips": {
       "template": "TIP: {CONTENT}",
       "tips": {
-        "menuTheme": "Your name color and your player list entry style are based on your in-game menu theme.",
-        "playersInMap": "You can switch between the number of players online and the number of players in your map by clicking the label.",
-        "globalChatLocation": "You can view the location a global chat message was sent in by hovering over or clicking the globe icon to the left of the message. It will also show or hide future global chat message locations based on your last show or hide.",
+        "menuTheme": "名前の色やプレイヤータブに表示されるスタイルは、ゲーム内で設定しているメニュータイプに依存します。",
+        "playersInMap": "接続数を表示している所をクリックすると、接続数の表示を２っきオンライン全体の接続数と同じマップの接続数を切り替えることが出来ます。",
+        "globalChatLocation": "グローバルチャットに表示される地球儀のアイコンを押すと、そのグローバルチャットが送信された世界を確認することが出来ます。(しかもwikiのリンクにもなっている！)また、送信された世界が表示されている状態で地球儀のアイコンを押すと送信された世界名が非表示になります。",
         "markdownSupport": "Chat supports text formatting by wrapping text in certain characters. Currently supported are: **bold** (\\*\\*text\\*\\*), *italic* (\\*text\\*, \\_text\\_), __underline__ (\\_\\_text\\_\\_), and ~~strikethrough~~ (\\~\\~text\\~\\~).",
         "chatTabNotifications": "When you are in a chat tab other than 'All', if a new message is sent in the other filtered tab, it will add bolding to the tab label to notify you.",
         "clearChat": "When you click the clear chat button at the top right of the chat box, if you are not currently in the 'All' tab, it will only remove messages for the current chat tab you're on.",
