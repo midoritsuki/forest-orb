@@ -62,10 +62,10 @@
           "username": "Username:&nbsp;",
           "password": "Password&nbsp;"
         },
-        "registerPrompt": "Don't have an account?&nbsp;",
-        "register": "Register",
+        "registerPrompt": "アカウントがない方はこちら&nbsp;",
+        "register": "登録",
         "errors": {
-          "invalidLogin": "Username or password is incorrect."
+          "invalidLogin": "ユーザ名またはパスワードが正しくありません。"
         }
       },
       "register": {
@@ -74,13 +74,13 @@
           "email": "Email:&nbsp;",
           "username": "Username:&nbsp;",
           "password": "Password:&nbsp;",
-          "confirmPassword": "Confirm Password:&nbsp;"
+          "confirmPassword": "パスワード確認:&nbsp;"
         },
-        "loginPrompt": "Already have an account?&nbsp;",
-        "login": "Login",
+        "loginPrompt": "すでにアカウントをお持ちの場合&nbsp;",
+        "login": "ログイン",
         "errors": {
-          "emailTaken": "The specified email address is already in use.",
-          "usernameTaken": "The specified username is already in use."
+          "emailTaken": "指定されたメールアドレスは既に使用されています。",
+          "usernameTaken": "指定されたユーザー名は既に使用されています。"
         }
       },
       "uiTheme": {
